@@ -1,1 +1,1 @@
-Testing Readme
+This repo is for learning purposes as I create a webserver using Flask for Python!
